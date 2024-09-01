@@ -1,6 +1,6 @@
 # HCAHPS Patient Satisfaction Analysis
 
-<img src="https://github.com/user-attachments/assets/cde2fd27-4f01-4532-bd92-24e74927565d" alt="description" width="800"/>
+<img src="https://github.com/user-attachments/assets/55d46300-b074-4645-8362-f0dbba73b9e3" alt="description" width="800"/>
 
 ## Overview
 The Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS) is a standardized survey that measures patients' perspectives on their hospital care experiences. Developed by the Centers for Medicare & Medicaid Services (CMS) in partnership with the Agency for Healthcare Research and Quality (AHRQ), HCAHPS provides a national standard for collecting and publicly reporting data on patients' experiences in hospitals across the United States. The survey includes 29 questions that assess various aspects of patient care, such as communication with nurses and doctors, responsiveness of hospital staff, cleanliness and quietness of the environment, pain management, and overall satisfaction.
